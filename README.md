@@ -1,3 +1,3 @@
-# Final_assignment_data_science
+# Applied Data Science Capstone Project
 
-## Doing a project on data science
+## Doing a project on data science capstone
